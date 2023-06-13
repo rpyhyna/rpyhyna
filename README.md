@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rpyhyna
 - 👀 I’m interested in network technologies.
 - 🌱 I’m currently learning Python for network engeener.
-- 💞️ I’m looking to collaborate on Python and Englesh education.
+- 💞️ I’m looking to collaborate on Python and English education.
 - 📫 You can reach me on Telegram @r_o_pyhyna.
 
 <!---
